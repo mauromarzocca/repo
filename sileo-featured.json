@@ -1,0 +1,14 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 8,
+  "banners": [
+    {
+      "class": "FeaturedBannerView",
+      "title": "Silenzioso",
+      "url": "https://mauromarzocca.github.io/repo/",
+      "package": "com.mauromarzocca.silenzioso",
+      "hideShadow": false
+    }
+  ]
+}
