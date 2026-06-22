@@ -15,6 +15,17 @@
       "class": "DepictionStackView",
       "tabname": "Changelog",
       "views": [
+	{
+  "class": "DepictionSubheaderView",
+  "title": "1.0.2"
+},
+{
+  "class": "DepictionMarkdownView",
+  "markdown": "- Added banner and depiction"
+},
+{
+  "class": "DepictionSeparatorView"
+},
         {
           "class": "DepictionSubheaderView",
           "title": "1.0.1"

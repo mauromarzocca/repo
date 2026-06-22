@@ -39,3 +39,25 @@ Depiction: https://mauromarzocca.github.io/repo/depiction.json
 Icon: https://mauromarzocca.github.io/repo/icons/CydiaIcon.png
 Name: Silenzioso
 
+Package: com.mauromarzocca.silenzioso
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Mauro Marzocca <marzocca.mauro@gmail.com>
+Installed-Size: 436
+Depends: org.coolstar.libhooker | mobilesubstrate, com.opa334.ccsupport, firmware (>= 14.0)
+Filename: debs/com.mauromarzocca.silenzioso_1.0.2_iphoneos-arm64.deb
+Size: 30998
+MD5sum: 3eeafa4e6daf00643f412150891e5b7f
+SHA1: 7135c4e5f7830cb53b4c296a6b9285c997a80c9d
+SHA256: f5f5fb7a11a118bdc490ac8775521ed6b904be108f7531b7e8d4f9ac05423d6a
+Section: Tweaks
+Homepage: https://github.com/mauromarzocca
+Description: Adds a Silent Mode toggle to the Control Center. The state is preserved across reboots and resprings.
+Tag: compatible_min::ios14.0
+Author: Mauro Marzocca <marzocca.mauro@gmail.com>
+Banner: https://mauromarzocca.github.io/repo/banner.png
+Depiction: https://mauromarzocca.github.io/repo/depiction.json
+Icon: https://mauromarzocca.github.io/repo/icons/CydiaIcon.png
+Name: Silenzioso
+Sileodepiction: https://mauromarzocca.github.io/repo/depiction.json
+
