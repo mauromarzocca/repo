@@ -6,3 +6,4 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: Mauro Marzocca's Tweak Repository
+Icon: https://mauromarzocca.github.io/repo/repo_icon.png
