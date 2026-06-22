@@ -11,6 +11,17 @@
         }
       ]
     },
+{
+  "class": "DepictionSubheaderView",
+  "title": "1.0.3"
+},
+{
+  "class": "DepictionMarkdownView",
+  "markdown": "- Improve Tweak"
+},
+{
+  "class": "DepictionSeparatorView"
+},
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
