@@ -11,32 +11,43 @@
         }
       ]
     },
-{
-  "class": "DepictionSubheaderView",
-  "title": "1.0.3"
-},
-{
-  "class": "DepictionMarkdownView",
-  "markdown": "- Improve Tweak"
-},
-{
-  "class": "DepictionSeparatorView"
-},
+    {
+      "class": "DepictionSubheaderView",
+      "title": "1.1"
+    },
+    {
+      "class": "DepictionMarkdownView",
+      "markdown": "- Test App"
+    },
+    {
+      "class": "DepictionSeparatorView"
+    },
+    {
+      "class": "DepictionSubheaderView",
+      "title": "1.0.3"
+    },
+    {
+      "class": "DepictionMarkdownView",
+      "markdown": "- Improve Tweak"
+    },
+    {
+      "class": "DepictionSeparatorView"
+    },
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
       "views": [
-	{
-  "class": "DepictionSubheaderView",
-  "title": "1.0.2"
-},
-{
-  "class": "DepictionMarkdownView",
-  "markdown": "- Added banner and depiction"
-},
-{
-  "class": "DepictionSeparatorView"
-},
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0.2"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Added banner and depiction"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0.1"
