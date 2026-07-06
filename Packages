@@ -87,17 +87,39 @@ Package: com.mauromarzocca.silenzioso
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Mauro Marzocca <marzocca.mauro@gmail.com>
-Installed-Size: 436
+Installed-Size: 864
 Depends: org.coolstar.libhooker | mobilesubstrate, com.opa334.ccsupport, firmware (>= 14.0)
-Filename: debs/com.mauromarzocca.silenzioso_1.0.3_iphoneos-arm64.deb
-Size: 31112
-MD5sum: 069165be9a09d15aca3c3f7f298a02a6
-SHA1: eb0c7546beb8c2fb157ca62b562942fc503be1ad
-SHA256: c3946361181d0b0ccf047d027b0081ea47a6e4c447420c84a245a51cdfa6cff6
+Filename: debs/com.mauromarzocca.silenzioso_1.1_rootful_iphoneos-arm64.deb
+Size: 232370
+MD5sum: e88629dc964edea7dfc337296b29bc08
+SHA1: d27adfe77852da4f06aa8433e7baf8295cab4da5
+SHA256: 67ad179c999e0ef93620159350677316302b97afb3a531da206a89bf1784e3f4
 Section: Tweaks
 Homepage: https://github.com/mauromarzocca
 Description: Adds a Silent Mode toggle to the Control Center. The state is preserved across reboots and resprings.
 Tag: compatible_min::ios14.0
+Author: Mauro Marzocca <marzocca.mauro@gmail.com>
+Banner: https://mauromarzocca.github.io/repo/banner.png
+Depiction: https://mauromarzocca.github.io/repo/depiction.json
+Icon: https://mauromarzocca.github.io/repo/icons/CydiaIcon.png
+Name: Silenzioso
+Sileodepiction: https://mauromarzocca.github.io/repo/depiction.json
+
+Package: com.mauromarzocca.silenzioso
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Mauro Marzocca <marzocca.mauro@gmail.com>
+Installed-Size: 864
+Depends: org.coolstar.libhooker | mobilesubstrate, com.opa334.ccsupport, firmware (>= 14.0)
+Filename: debs/com.mauromarzocca.silenzioso_1.1_rootless_iphoneos-arm64.deb
+Size: 232446
+MD5sum: 60599f738741d1d992994930d6765026
+SHA1: 2b2b93fa5af914ea4cdb6c59b813d8c5e21ff130
+SHA256: ca9b55e546e6632d482a81329b71d99381a6cbff50929d838adf29c0df791925
+Section: Tweaks
+Homepage: https://github.com/mauromarzocca
+Description: Adds a Silent Mode toggle to the Control Center. The state is preserved across reboots and resprings.
+Tag: compatible_min::ios14.0, role::developer
 Author: Mauro Marzocca <marzocca.mauro@gmail.com>
 Banner: https://mauromarzocca.github.io/repo/banner.png
 Depiction: https://mauromarzocca.github.io/repo/depiction.json

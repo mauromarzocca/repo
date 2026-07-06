@@ -7,3 +7,18 @@ Architectures: iphoneos-arm64
 Components: main
 Description: Mauro Marzocca's Tweak Repository
 Icon: https://mauromarzocca.github.io/repo/repo_icon.png
+MD5Sum:
+ df581f1efa618780bb5c807d922e9d66 5889 Packages
+ cb20df1f35303a60c22eab201cfd6eba 1160 Packages.gz
+ 3fa8d7a4e19e815d01298f388c08b799 1459 Packages.bz2
+ b1d5b88330f444c92ed9238e2bb83510 1172 Packages.xz
+SHA1:
+ 4b785b08e3068bb4c223d36d32143475846c126a 5889 Packages
+ a8de47d567d0cbb7b5519daaa52d19baaba428e9 1160 Packages.gz
+ 799b399b2ecc8400839b307da6c5912336199a70 1459 Packages.bz2
+ ddd5327682dbc48e0a0fc3fac6832cdb090907de 1172 Packages.xz
+SHA256:
+ 2794f5991a49fb8ef385d110f64f897d26f300fd98d4509518b7f9aa134f8721 5889 Packages
+ 7e3356963d18a41d04a774be300d1e86f59e572082662ffabf3a4b297ad5fc63 1160 Packages.gz
+ d41dbf65a97d01e48e6f99f71d6a6f4869dcc97182e38f668681f3ccc546a79d 1459 Packages.bz2
+ 89dfb1ca61f3ba7e0ca8b929a00a52658aae1de8fd1ca53475d5d81ee07e08db 1172 Packages.xz

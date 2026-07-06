@@ -2,8 +2,8 @@
   "class": "DepictionTabView",
   "tabs": [
     {
-      "class": "DepictionStackView",
       "tabname": "Details",
+      "class": "DepictionStackView",
       "views": [
         {
           "class": "DepictionMarkdownView",
@@ -12,31 +12,31 @@
       ]
     },
     {
-      "class": "DepictionSubheaderView",
-      "title": "1.1"
-    },
-    {
-      "class": "DepictionMarkdownView",
-      "markdown": "- Test App"
-    },
-    {
-      "class": "DepictionSeparatorView"
-    },
-    {
-      "class": "DepictionSubheaderView",
-      "title": "1.0.3"
-    },
-    {
-      "class": "DepictionMarkdownView",
-      "markdown": "- Improve Tweak"
-    },
-    {
-      "class": "DepictionSeparatorView"
-    },
-    {
-      "class": "DepictionStackView",
       "tabname": "Changelog",
+      "class": "DepictionStackView",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Support for rootful and rootless jailbreaks"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0.3"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Improve Tweak"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0.2"
