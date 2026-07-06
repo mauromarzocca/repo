@@ -1,5 +1,8 @@
 {
+  "minVersion": "0.4",
   "class": "DepictionTabView",
+  "headerImage": "https://mauromarzocca.github.io/repo/banner.png",
+  "tintColor": "#6A5ACD",
   "tabs": [
     {
       "tabname": "Details",
