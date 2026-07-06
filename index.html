@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Mauro Marzocca's Repo</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, 'Helvetica Neue', sans-serif;
+            background: #0d0d0f;
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 24px;
+        }
+        .card {
+            background: #1a1a1e;
+            border-radius: 20px;
+            padding: 40px 32px 32px;
+            max-width: 400px;
+            width: 100%;
+            text-align: center;
+        }
+        .icon {
+            width: 80px; height: 80px;
+            border-radius: 18px;
+            margin-bottom: 16px;
+        }
+        h1 {
+            font-size: 22px; font-weight: 700;
+            margin-bottom: 4px;
+        }
+        .url {
+            color: #8e8e93; font-size: 13px;
+            word-break: break-all;
+            margin-bottom: 24px;
+        }
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 14px;
+            border-radius: 12px;
+            border: none;
+            font-size: 16px; font-weight: 600;
+            cursor: pointer;
+            text-decoration: none;
+            margin-bottom: 10px;
+            transition: opacity 0.2s;
+        }
+        .btn:active { opacity: 0.7; }
+        .btn:last-child { margin-bottom: 0; }
+        .btn-cydia { background: #6d4534; color: #fff; }
+        .btn-sileo { background: #2c7be5; color: #fff; }
+        .btn-zebra { background: #ff9500; color: #fff; }
+        .footer {
+            margin-top: 20px;
+            font-size: 12px; color: #48484a;
+        }
+        .footer a { color: #636366; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <img class="icon" src="repo_icon.png" alt="Repo Icon">
+        <h1>Mauro Marzocca's Repo</h1>
+        <p class="url">mauromarzocca.github.io/repo</p>
+
+        <a class="btn btn-cydia" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://mauromarzocca.github.io/repo/">
+            Add to Cydia
+        </a>
+        <a class="btn btn-sileo" href="sileo://source/https://mauromarzocca.github.io/repo/">
+            Add to Sileo
+        </a>
+        <a class="btn btn-zebra" href="zbra://sources/add/https://mauromarzocca.github.io/repo/">
+            Add to Zebra
+        </a>
+
+        <p class="footer">
+            <a href="https://github.com/mauromarzocca">github.com/mauromarzocca</a>
+        </p>
+    </div>
+</body>
+</html>
