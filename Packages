@@ -89,15 +89,15 @@ Architecture: iphoneos-arm64
 Maintainer: Mauro Marzocca <marzocca.mauro@gmail.com>
 Installed-Size: 864
 Depends: org.coolstar.libhooker | mobilesubstrate, com.opa334.ccsupport, firmware (>= 14.0)
-Filename: debs/com.mauromarzocca.silenzioso_1.1_rootful_iphoneos-arm64.deb
-Size: 232370
-MD5sum: e88629dc964edea7dfc337296b29bc08
-SHA1: d27adfe77852da4f06aa8433e7baf8295cab4da5
-SHA256: 67ad179c999e0ef93620159350677316302b97afb3a531da206a89bf1784e3f4
+Filename: debs/com.mauromarzocca.silenzioso_1.1_rootless_iphoneos-arm64.deb
+Size: 232446
+MD5sum: 60599f738741d1d992994930d6765026
+SHA1: 2b2b93fa5af914ea4cdb6c59b813d8c5e21ff130
+SHA256: ca9b55e546e6632d482a81329b71d99381a6cbff50929d838adf29c0df791925
 Section: Tweaks
 Homepage: https://github.com/mauromarzocca
 Description: Adds a Silent Mode toggle to the Control Center. The state is preserved across reboots and resprings.
-Tag: compatible_min::ios14.0
+Tag: compatible_min::ios14.0, role::developer
 Author: Mauro Marzocca <marzocca.mauro@gmail.com>
 Banner: https://mauromarzocca.github.io/repo/banner.png
 Depiction: https://mauromarzocca.github.io/repo/depiction.json
@@ -111,15 +111,15 @@ Architecture: iphoneos-arm64
 Maintainer: Mauro Marzocca <marzocca.mauro@gmail.com>
 Installed-Size: 864
 Depends: org.coolstar.libhooker | mobilesubstrate, com.opa334.ccsupport, firmware (>= 14.0)
-Filename: debs/com.mauromarzocca.silenzioso_1.1_rootless_iphoneos-arm64.deb
-Size: 232446
-MD5sum: 60599f738741d1d992994930d6765026
-SHA1: 2b2b93fa5af914ea4cdb6c59b813d8c5e21ff130
-SHA256: ca9b55e546e6632d482a81329b71d99381a6cbff50929d838adf29c0df791925
+Filename: debs/com.mauromarzocca.silenzioso_1.1_rootful_iphoneos-arm64.deb
+Size: 232370
+MD5sum: e88629dc964edea7dfc337296b29bc08
+SHA1: d27adfe77852da4f06aa8433e7baf8295cab4da5
+SHA256: 67ad179c999e0ef93620159350677316302b97afb3a531da206a89bf1784e3f4
 Section: Tweaks
 Homepage: https://github.com/mauromarzocca
 Description: Adds a Silent Mode toggle to the Control Center. The state is preserved across reboots and resprings.
-Tag: compatible_min::ios14.0, role::developer
+Tag: compatible_min::ios14.0
 Author: Mauro Marzocca <marzocca.mauro@gmail.com>
 Banner: https://mauromarzocca.github.io/repo/banner.png
 Depiction: https://mauromarzocca.github.io/repo/depiction.json
