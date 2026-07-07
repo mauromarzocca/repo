@@ -84,6 +84,50 @@ Name: Silenzioso
 Sileodepiction: https://mauromarzocca.github.io/repo/depiction.json
 
 Package: com.mauromarzocca.silenzioso
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Mauro Marzocca <marzocca.mauro@gmail.com>
+Installed-Size: 864
+Depends: org.coolstar.libhooker | mobilesubstrate, com.opa334.ccsupport, firmware (>= 14.0)
+Filename: debs/com.mauromarzocca.silenzioso_1.1.1_rootless_iphoneos-arm64.deb
+Size: 234548
+MD5sum: 83c192d5dcfcfd1076d86b7da0a535da
+SHA1: 2e1782e57cf281175d6e8b06230aa5b15676e12b
+SHA256: bd50ad92c5c75eb5317c8f58b9c6ad9ecbc1b5361b39f380ffde4cdf4647e0fe
+Section: Tweaks
+Homepage: https://github.com/mauromarzocca
+Description: Adds a Silent Mode toggle to the Control Center. The state is preserved across reboots and resprings.
+Tag: compatible_min::ios14.0, role::developer
+Author: Mauro Marzocca <marzocca.mauro@gmail.com>
+Banner: https://mauromarzocca.github.io/repo/banner.png
+Depiction: https://mauromarzocca.github.io/repo/depiction.json
+Icon: https://mauromarzocca.github.io/repo/icons/CydiaIcon.png
+Name: Silenzioso
+Sileodepiction: https://mauromarzocca.github.io/repo/depiction.json
+
+Package: com.mauromarzocca.silenzioso
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Mauro Marzocca <marzocca.mauro@gmail.com>
+Installed-Size: 864
+Depends: org.coolstar.libhooker | mobilesubstrate, com.opa334.ccsupport, firmware (>= 14.0)
+Filename: debs/com.mauromarzocca.silenzioso_1.1.1_rootful_iphoneos-arm64.deb
+Size: 234480
+MD5sum: f278520ce68b29ad93f009f393f9dc8a
+SHA1: 093ca2b6bb292da1cfb98fa173cfa1f56df31e52
+SHA256: e1724847d7f47764ed5ed9dd80b667ef483ade7a89013f47acccd191eb7e890d
+Section: Tweaks
+Homepage: https://github.com/mauromarzocca
+Description: Adds a Silent Mode toggle to the Control Center. The state is preserved across reboots and resprings.
+Tag: compatible_min::ios14.0
+Author: Mauro Marzocca <marzocca.mauro@gmail.com>
+Banner: https://mauromarzocca.github.io/repo/banner.png
+Depiction: https://mauromarzocca.github.io/repo/depiction.json
+Icon: https://mauromarzocca.github.io/repo/icons/CydiaIcon.png
+Name: Silenzioso
+Sileodepiction: https://mauromarzocca.github.io/repo/depiction.json
+
+Package: com.mauromarzocca.silenzioso
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Mauro Marzocca <marzocca.mauro@gmail.com>

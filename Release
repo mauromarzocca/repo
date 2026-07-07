@@ -8,17 +8,17 @@ Components: main
 Description: Mauro Marzocca's Tweak Repository
 Icon: https://mauromarzocca.github.io/repo/repo_icon.png
 MD5Sum:
- 95aaf9534db7cc0b91a928ff0b1d4827 5889 Packages
- 040276e429d9ffd39632e1606d6c6b6f 1163 Packages.gz
- 0036504f6edb4f778a8a1bd3eb5d7bfc 1459 Packages.bz2
- 2856abac7cdcfae823e2108a3be63a2b 1176 Packages.xz
+  b339f96815019b58ab15615e627bfbee 7947 Packages
+  afa24c8f2dd2caa7b125d7c5d2d2166b 1380 Packages.gz
+  1c4b2f8a35a2d028c61be87d1ab4180d 1633 Packages.bz2
+  4bd19327c320ce114860c88c2a9cf8bb 1356 Packages.xz
 SHA1:
- ca22018c6a4521b0876d92d576b10f62c05a1c57 5889 Packages
- 2f30fa238399eb141d5a1332eb46627f7b5e4d65 1163 Packages.gz
- 131b924439f9ce2b17fd0ec40ddbfa12f30ca0ea 1459 Packages.bz2
- 8d6344a648ca629ca549725bb8f7f495b98306ba 1176 Packages.xz
+  c0130da234186c90525f4d0cedb8b4ff03c9eb2e 7947 Packages
+  f5730b23dbdfb6419d8816f494d384ddb784d977 1380 Packages.gz
+  961734cb3c36fe268e73c80ae0e1cbe149641f36 1633 Packages.bz2
+  8ce931aaafcc0a3d34b753cdeb079c5e750ca67c 1356 Packages.xz
 SHA256:
- 274872bb6c478109992523987465b691c5e1e68e74f6f152482b2cfa3949f0f9 5889 Packages
- f74312b36ac82956a30f580e3f89eb0914ccdbed51d7c5941a1f326304058eb2 1163 Packages.gz
- c79085966aa8bfd8c85d8db304cffdedb29c51816b3a1f107b79ba0a9c8d7770 1459 Packages.bz2
- a1202a43a26945f85cf65192eb0a0d33c75d60ddbc199d7355e33e3f9e1afed1 1176 Packages.xz
+  dca30caa55dfea265d3bcd2089eaf9f6089bf4cbbd7ab4da0f7ac35008e132a3 7947 Packages
+  cf8fb0c34b91deb532c8a021cc753cb1720d27fa442f85bf948faab8e2f09005 1380 Packages.gz
+  87a9f3b70a89c7117dea3319db9b6dd6c590c40b2e8026623d1fa7f561a63aca 1633 Packages.bz2
+  f8da0204b75b80a880167b0772e9b30439ba787f9d6d72bad64b850838fc26b5 1356 Packages.xz

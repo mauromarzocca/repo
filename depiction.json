@@ -27,6 +27,9 @@
           "markdown": "- Bug Fix for iOS 15"
         },
         {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "class": "DepictionSubheaderView",
           "title": "1.1"
         },
